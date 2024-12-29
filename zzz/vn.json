@@ -1,0 +1,313 @@
+{
+	"1011": [{ // anby
+		"name": "宴宁",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/102103/f0ee50213d46fe96954f8ad6e8d7c41d_1131252268469153583.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/102103/953f606f412bc440f690697481b4cd42_2130480456709195447.mp3"]},
+		{
+		"name": "Atsumi Tanezaki",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/102103/4c5be2a420fc905c11572d475eb832f4_2759556516568698247.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/102103/bff0b1ed1b3afeb68a34573f49dc337c_7232924325190232677.mp3"
+		]
+	}],
+	"1021": [{ // nekomata
+		"name": "花玲",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/102427/425b0ee5022538a01de8b6cb3fb9e506_2321321718631129744.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/102427/9554f331f8226d3a55dcde6db0800b69_6358938239428272399.mp3"]},
+		{
+		"name": "Hara Sayuri",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/102427/c7ad3df7f07faf5b1647fb76def74854_8502572124822956802.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/102427/aab5379484fa6190662eac0d0449ae11_4946871412185065661.mp3"
+		]
+	}],
+	"1031": [{ // nicole
+		"name": "陈婷婷",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/102183/4ffc53f3fbcd8d15bd45e52335e3d330_2931442810169225927.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/102183/ea3524b5dc30fe74f5d15211bf22cc2d_6175751242302262149.mp3"]},
+		{
+		"name": "Yuu Serizawa",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/102183/c3ae6c7bce5d8c000f2433163cadfd1b_8083497852472222138.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/102183/36024deacec9cb658d436c0bf88fc0ab_7757103516097936047.mp3"
+		]
+	}],
+	/*"1041": [{ // soldier 11
+		"name": "花玲",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/102427/425b0ee5022538a01de8b6cb3fb9e506_2321321718631129744.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/102427/9554f331f8226d3a55dcde6db0800b69_6358938239428272399.mp3"]},
+		{
+		"name": "Hara Sayuri",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/102427/c7ad3df7f07faf5b1647fb76def74854_8502572124822956802.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/102427/aab5379484fa6190662eac0d0449ae11_4946871412185065661.mp3"
+		]
+	}],*/
+	"1061": [{ // corin
+		"name": "沐霏",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/102477/b36bdc78aa44f20239729f0edff77405_8321986044804095705.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/102477/c373ebb6423b730c3a46feaaff818a76_5609643208261165573.mp3"]},
+		{
+		"name": "Igarashi Hiromi",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/102477/850c979a8646f31753170f3a881f8b5f_7423593688788517915.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/102477/78350c79cb42d4081cd621c1f4ea33b3_270360998429823162.mp3"
+		]
+	}],
+	"1071": [{ // caesar
+		"name": "苏子芜",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/125210/cd0d6248775b80c0a87fb9d4049e7c6f_6372296609026026385.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/125210/f33e059d9af19ebe3f57788a30b156a7_1571492967363965215.mp3"]},
+		{
+		"name": "Rina Satō",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/125210/f487da776feb3dc30529af266e3c36e2_992066388702804671.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/125210/a4c6b7be02fed106a0062881f61d0255_7213021814418574763.mp3"
+		]
+	}],
+	"1081": [{ // billy
+		"name": "陈润秋",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/102184/1058f8cefebdf62e1dd9897cefcab2c7_8992887796138242915.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/102184/f2e7f2769cf14c919579eb2951b43e7e_2166047837623037092.mp3"]},
+		{
+		"name": "Yuu Hayashi",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/102184/8dca0c5f250c5cabcfac3be63e78e0ff_9209527213989069924.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/102184/2b1924b96fbe5765cc90a0f399782538_4202704941300764882.mp3"
+		]
+	}],
+	"1091": [{ // miyabi
+		"name": "阮从青",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/103379/58b189be5007ebcf3764f2216e5632c3_8193146804703698039.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/103379/5f99eb73ff1a62a06adcf9c549da67e9_1935252031403628329.mp3"]},
+		{
+		"name": "Koshimizu Ami",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/103379/29ccb1d97dfa809feb1a1a60e5c2657b_2414001688853733473.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/103379/783644fe096482903875b64c89c0f5fd_548584407018820893.mp3"
+		]
+	}],
+	"1101": [{ // koleda
+		"name": "穆雪婷",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/102708/42b35a445001616d31f5c6f2b36d34d7_7993509873390396489.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/102708/3068ddfd6fdef6402ee58d0bed0b57c1_8818598063462421003.mp3"]},
+		{
+		"name": "Iguchi Yuka",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/102708/1cb4f7c274fc054330bd74ef3cddc281_925382833274390358.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/102708/6f3f67939e3859d84d9984bda4bd626b_8554998121327408679.mp3"
+		]
+	}],
+	"1111": [{ // anton
+		"name": "萧翟",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/102769/b5e490f24c2ff2058f445745a5db7893_8859173629796877279.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/102769/ad851abaae13e86ad0d2971c896d333d_5978854109952351234.mp3"]},
+		{
+		"name": "Kamio Shinichiro",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/102769/a1ef4329cf7aa793c1bab18929c92e8b_1147858870528197027.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/102769/2be6d44ab6464ff05b90c78ffbcb16a7_8526984466709287653.mp3"
+		]
+	}],
+	"1121": [{ // ben
+		"name": "孟祥龙",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/102852/fbc574dd0fb39a08e92fa3faf1b9340c_4048649001613118140.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/102852/fcfd5e343dbbbd5e11700a0c1f0ba129_265252005737159503.mp3"]},
+		{
+		"name": "Hamada Kenji",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/102852/4e2033fda9a2c6910e559736d0da629b_5820720579961035042.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/102852/a8c808de958ec6522a6e7dd71628d67b_6566332413462470695.mp3"
+		]
+	}],
+	"1131": [{ // soukaku
+		"name": "刘雯",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/103295/bb82efbb1d5ba28586513c23fd8a0849_2272263351536129222.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/103295/e43681c9e96155a500a508bbb32bb0b4_2101978097402759648.mp3"]},
+		{
+		"name": "Machiro",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/103295/ae69cc9a57a2864215ea46f370c71fe0_7165236820948049844.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/103295/e3da9d1e8d6b8a6c59ee6a8ca40fa40d_6515993895307595387.mp3"
+		]
+	}],
+	"1141": [{ // lycaon
+		"name": "王宇航",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/102529/48b10a214c66e9730d9a0526964662dc_8841401079582323068.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/102529/b8aa807dbdf0b238a1b07d427625c9f3_6899455659606680093.mp3"]},
+		{
+		"name": "Kobayashi Chikahiro",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/102529/6c5a48d0961486e513f843c752563507_933213585015865180.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/102529/4eb0ccc413ad0b850b2a07d147e051cb_2367129907652834713.mp3"
+		]
+	}],
+	"1151": [{ // lucy
+		"name": "闲踏梧桐",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/124308/6e3bcf58f5c737551f3038d9a1011e75_2906759178390684593.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/124308/60e92965118d07eb4b693f965d8f9cb9_4139484602170799201.mp3"]},
+		{
+		"name": "Ayaka Asai",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/124308/c31c2244dd27e9f6040b1cbe874ce197_4788067389472089961.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/124308/745c83dc3a7303167f1d9463ef428081_6269847762337368479.mp3"
+		]
+	}],
+	"1161": [{ // lighter
+		"name": "张沛",
+		"audio": [
+			]},
+		{
+		"name": "Takahashi Hiroki",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/126060/2446323796db15f0630e4b5452464d26_4976676308889733166.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/126060/5cc04a9912c7d7aff3963904a2f04d00_550247049451232376.mp3"
+		]
+	}],
+	"1171": [{ // burnice
+		"name": "葛子瑞",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/125214/b6b420f552d5986c6283654411cefaae_8598578381952335317.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/125214/acd8e9fcb22bdecd996f50e91b2e46b1_7675938465617899903.mp3"]},
+		{
+		"name": "Karin Takahashi",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/125214/8af5e7650cfdd5d525d297796643581f_5022539084047697796.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/125214/bdfac175551605df639f3fb66348ab5e_5912245015228092965.mp3"
+		]
+	}],
+	"1181": [{ // grace
+		"name": "小敢",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/113532/bc5d013dd5f2d741222480aca16e76c6_2222400401072445980.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/113532/905ec2ab215047d770ad808c262c358a_5312692345719125131.mp3"]},
+		{
+		"name": "Shiraishi Haruka",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/113532/698c9737040f4e4e9adb41898d4e5224_3030964744608150696.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/113532/071827a9df219afbc28df2f8db6b140f_8093516021557322957.mp3"
+		]
+	}],
+	"1191": [{ // ellen
+		"name": "萧清源",
+		"audio": [
+				"https://fastcdn.hoyoverse.com/content-v2/nap/113671/dc04b8847b34f6ae75a405ec2daad72d_8367547571567994150.mp3",
+				"https://fastcdn.hoyoverse.com/content-v2/nap/113671/fa80a9e26a016fdb3139447d44dbcf77_4206054708250718899.mp3"]},
+		{
+		"name": "Wakayama Shion",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/113671/f13e31e96721c68dee121091e9f047c1_8046244424769175234.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/113671/9a4aeec8d3ca1b6758456659b6e60582_6185259045033844775.mp3"
+		]
+	}],
+	"1201": [{ // harumasa
+		"name": "徐翔",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/126693/b8082a9b48256a04dee77ea7c6f6280a_590350766265353125.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/126693/9e55cdb5b161485b409a850acaaa15c9_2710630270597834821.mp3"]},
+		{
+		"name": "Kakihara Tetsuya",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/126693/d37dd4843487e313451f9d6282a7c079_7077507637888177556.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/126693/3ffc482c03140f4f24c9fd18ee7e49b3_8209960146824420495.mp3"
+		]
+	}],
+	"1211": [{ // rina
+		"name": "张若瑜",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/113612/5147ade1c4132f5c2eb42a71cbda9e6b_2176645014508546051.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/113612/e51f855d42ca392117058669dfa0581c_3816991784649142697.mp3"]},
+		{
+		"name": "Arai Satomi",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/113612/1f939d31bb8e7ff71ae87da6220342c4_6323884553093467779.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/113612/0c44c8088ce059650a2d29f9536515cb_2448141243790998481.mp3"
+		]
+	}],
+	"1221": [{ // yanagi
+		"name": "菊花花",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/126040/946a9b4c5d468c57710031104053e5e7_8857328118424346699.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/126040/ab7c41bf743445f7c6da2a292de11f1f_2732101818859813439.mp3"]},
+		{
+		"name": "Nazuka Kaori",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/126040/989e6cb0167ca239772752afb780d1d5_8621443959172730034.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/126040/63a7db10bb4b659eded997bcdb9d5595_32007217287537288.mp3"
+		]
+	}],
+	"1241": [{ // zhuyuan
+		"name": "Mace",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/122782/53888e92d15f187a83518e1fa94284cd_3218620730897016771.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/122782/be4202634fe07f24be7e0269328f3a39_8997911177089856625.mp3"]},
+		{
+		"name": "Inoue Marina",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/122782/a81d5b0f507e723baae611d11619ef4a_7230019674191074053.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/122782/31c116eb36aabb4a31d05d0f80c4fc7d_3816981769046343409.mp3"
+		]
+	}],
+	"1251": [{ // qingyi
+		"name": "皛四白",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/124660/fdf5e4a6735268a1b46e87524db69fc5_6205954419445075180.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/124660/603eecd9d6b1917a1470ed7ba868ebb9_3291747854084378468.mp3"]},
+		{
+		"name": "Abo Maria",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/124660/a35a39cbc21ebb9d4c24976bc0c7bfd9_6770776697671445178.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/124660/c217ec430f181ebb3a6da3f3b5c154d7_3561691031002792872.mp3"
+		]
+	}],
+	/*"1261": [{ // jane
+		"name": "皛四白",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/124660/fdf5e4a6735268a1b46e87524db69fc5_6205954419445075180.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/124660/603eecd9d6b1917a1470ed7ba868ebb9_3291747854084378468.mp3"]},
+		{
+		"name": "Abo Maria",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/124660/a35a39cbc21ebb9d4c24976bc0c7bfd9_6770776697671445178.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/124660/c217ec430f181ebb3a6da3f3b5c154d7_3561691031002792872.mp3"
+		]
+	}],*/
+	"1271": [{ // seth
+		"name": "修缘",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/124700/dc3128062f9afb19e19e230741d08209_1106077100611116573.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/124700/321df268f4e6b37195f5bfb3247ce888_1389913541065821959.mp3"]},
+		{
+		"name": "Tanakashi Kengo",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/124700/1fce09c283df4dc4c04cab930b1eced0_7187373179401260696.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/124700/a30a017d2beda2622390bb1e89906640_3043555163149374092.mp3"
+		]
+	}],
+	"1281": [{ // piper
+		"name": "吴哲茹",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/124310/37a684666325dfa24861e60ca0ac31f1_1792340302630321132.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/124310/849eaf9d7060bc56842b7a771607e6fe_6893263968546069529.mp3"]},
+		{
+		"name": "Iwami Manaka",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/124310/e29c3f30e342f2a0728c6f0fc7248cee_4022222118852409667.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/124310/62c554144fe8e9ad46e4a870160b053a_4263502864816040082.mp3"
+		]
+	}],
+}
